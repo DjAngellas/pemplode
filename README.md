@@ -27,9 +27,9 @@ A comprehensive bash script that automates the extraction of PEM files from PKCS
 
 # Entry Point
 The main entry point is start.sh, which handles all dependencies and execution:
-
+```
 ./start.sh
-
+```
 # Usage
 ## Interactive Mode
 ```
@@ -134,6 +134,13 @@ The start.sh script serves as the primary interface and handles all dependency m
 
 # How to Contribute
 Contributions are welcome! Please fork the repository and submit pull requests for improvements or bug fixes.
+
+# Author Note
+I'm totally not a coding guru, even a little bit.  Feel free to poke and prod and make better for the world.<br/>
+
+"Make the world a bit better or more beautiful because you have lived in it." -Edward William Bok
+
+Anyway, I couldn't find an easy tool to automate updating my PKI so this is the result.  This is packaged for ease of use and simplicity of deployment.  I hope it saves you time.
 
 # Disclaimer
 This tool is provided "as is" without any warranty. Use at your own risk. The authors are not responsible for any damage caused by the use of this tool.
