@@ -1,4 +1,4 @@
-######## PKCS#12 Extraction Tool
+# PemPlode - a PKCS#12 Extraction Tool
 
 A comprehensive bash script that automates the extraction of PEM files from PKCS#12 certificate files with robust dependency management and error handling.
 
