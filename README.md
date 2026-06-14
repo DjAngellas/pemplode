@@ -2,7 +2,7 @@
 
 A comprehensive bash script that automates the extraction of PEM files from PKCS#12 certificate files with robust dependency management and error handling.
 
-Highlights
+# Highlights
 Automatic Dependency Management: Automatically detects and installs Python 3 and OpenSSL when missing
 Cross-Platform Support: Works on Linux (Ubuntu/Debian/CentOS/RHEL), macOS, and other Unix-like systems
 Flexible Input Methods: Accepts PFX file path as command-line argument or prompts interactively
